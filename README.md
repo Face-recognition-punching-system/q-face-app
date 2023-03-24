@@ -1,4 +1,4 @@
-# q-face-web
+# q-face-app
 
 A new Flutter project.
 
